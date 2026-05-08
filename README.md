@@ -1,5 +1,5 @@
 # EPS210
-Evaluating Geospatial Foundation Models for Landslide Detection 🔎⛰️
+Evaluating Geospatial Foundation Models for Landslide Detection 
 
 This repository contains the ablation notebook for evaluating Clay v1.5 and hybrid 
 U-Net + Clay architectures for pixel-level landslide segmentation on the 
