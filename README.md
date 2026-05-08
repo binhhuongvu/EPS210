@@ -24,7 +24,7 @@ Landslide4Sense benchmark.
 
 ## Running Experiments
 
-Open `Clay_Abalation_Test_v1__7_.ipynb` in Colab and run cells sequentially. 
+Open `Clay_Abalation_Test_Final_.ipynb` in Colab and run cells sequentially. 
 To switch between experiments, change the `ACTIVE_EXP` variable in the experiment 
 registry cell to one of the available configurations.
 
