@@ -31,3 +31,6 @@ registry cell to one of the available configurations.
 ## Results
 
 Checkpoints and evaluation results are saved automatically to `MyDrive/EPS210/`.
+
+## AI Acknowledgement
+Claude was used help with code debugging and editing. Cursor was used to debug metadata problems with the Colab notebook which prevented the upload from GoogleColab to Github. Hence, Cursor was only used to commit the already made notebook onto GitHub. 
