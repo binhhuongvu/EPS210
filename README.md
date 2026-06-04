@@ -28,9 +28,5 @@ Open `Clay_Abalation_Test_Final_.ipynb` in Colab and run cells sequentially.
 To switch between experiments, change the `ACTIVE_EXP` variable in the experiment 
 registry cell to one of the available configurations.
 
-## Results
-
-Checkpoints and evaluation results are saved automatically to `MyDrive/EPS210/`.
-
 ## AI Acknowledgement
 Claude was used help with code debugging and editing. Cursor was used to debug metadata problems with the Colab notebook which prevented the upload from GoogleColab to Github. Hence, Cursor was only used to commit the already made notebook onto GitHub. 
